@@ -38,3 +38,12 @@ def find_factorial(n):
     else:
         return n * find_factorial(n-1)
 print(find_factorial(5))
+
+# find prime number:
+
+a = int(input("Enter a Number:"))
+
+if a >= 1 and a % 2 != 0 :
+    print("This ia prime number:",a)
+else:
+    print("Not a prime number:")
