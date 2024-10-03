@@ -47,3 +47,4 @@ if a >= 1 and a % 2 != 0 :
     print("This ia prime number:",a)
 else:
     print("Not a prime number:")
+    jjgygi
